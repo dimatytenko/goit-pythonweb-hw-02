@@ -1,0 +1,68 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Віртуальні середовища
+venv/
+ENV/
+.env
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Системні файли
+.DS_Store
+Thumbs.db
+
+# Логи та тимчасові файли
+*.log
+logs/
+tmp/
+temp/
+
+# Git
+.git
+.gitignore
+
+# Docker
+.docker
+
+# Тестові файли
+tests/
+test/
+coverage/
+.coverage
+.pytest_cache/
+.tox/
+
+# Документація
+docs/
+*.md
+!README.md
+
+# Інші файли розробки
+*.bak
+*.tmp
+*.temp 
